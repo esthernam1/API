@@ -1,0 +1,82 @@
+html{
+    background: #F7F6EE;
+}
+
+body {
+	font-family: georgia;
+	text-align: center;
+}
+
+
+#answer{
+    font-size: 3em;
+    margin-top:-3em;
+	color:  black;
+    text-align: center;
+    margin-right:6em;
+}
+#answer2{
+	font-size: 2em;
+	margin-top: -3em;
+	color:  black;
+    text-align: center;
+    margin-right:9em;
+
+}
+
+
+#wrap {
+	max-width: 100%;
+    margin: 2% auto auto auto;
+}
+
+.subhead{
+    font-size: 40px;
+    text-align: left;
+    margin-left:2em;
+    padding-top:2em;
+}
+
+.london{
+    font-size: 100px;
+    margin:0;
+     /* border-bottom: 4px solid black ; */
+    /* border: dotted blue 3px; */
+}
+.location{
+    font-size: 25px;
+    padding:none;
+    margin:none;
+}
+
+
+ #date{
+    padding:.2em 0 .2em 0;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    font-size: 40px;
+    transition: all .2s ease-out;
+    animation: 18s linear infinite;
+    overflow: hidden;
+    font-size: 35px;
+
+} 
+
+.temp{
+    padding:.5em;
+    font-size: 40px;
+    text-align: center;
+    border:5px black solid;
+}
+
+.fact{
+    font-size: 30px;
+    font-family: georgia;
+    margin:0 3em 2em 24em;
+    text-align: left;
+    position: absolute;
+    top:60%;
+    line-height: 130%;
+    border-left: 5px solid black;
+    padding-left:2.5em;
+}
